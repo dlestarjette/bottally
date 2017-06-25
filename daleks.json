@@ -1,0 +1,114 @@
+{
+"daleks": [
+  "All #dalekTypes.capitalize# Dalek leaders to Control! Exterminate all opposition! DESTROY REBELS!!!",
+  "All #dalekTypes.capitalize# Dalek leaders to Control!",
+  "Seek! Locate! Exterminate!",
+  "Exterminate!",
+  "Maximum extermination!",
+  "Total destruction!",
+  "This is the #dalekLeaders speaking. Exterminate all opposition!",
+  "All humanoid creatures are to be exterminated! #dalekTypes.s.capitalize# advance!",
+  "All matter succumbs to the power of the Daleks!"
+],
+
+  "dalekTypes": [
+    "red Dalek",
+    "orange Dalek",
+    "white Dalek",
+    "blue Dalek",
+    "yellow Dalek",
+    "black Dalek",
+    "supreme Dalek",
+    "Dalek Supreme"
+    "Black Dalek Supreme",
+    "White Dalek Supreme",
+    "Red Dalek Supreme",
+    "strategist Dalek",
+    "temporal Dalek",
+    "Blue Strategist Dalek",
+    "Blue Temporal Dalek",
+    "drone Dalek",
+    "red drone",
+    "scientist Dalek",
+    "Orange Scientist Dalek",
+    "eternal Daleks",
+    "Dalek Eternal",
+    "Yellow Eternal Dalek",
+    "eternal Dalek",
+    "Imperial Dalek",
+    "Renegade Dalek",
+    "Mark I Dalek",
+    "Mark II Dalek",
+    "Mark III Dalek"
+    "Special Weapons Dalek",
+    "spider Dalek",
+    "marsh Dalek",
+    "marine Dalek",
+    "predator Dalek",
+    "psyche Dalek",
+    "scout Dalek",
+    "strider Dalek",
+    "librarian dalek",
+    "astrodalek"
+  ],
+
+  "dalekLeaders": [
+    "Dalek Time Controller",
+    "Dalek Supreme",
+    "Supreme Dalek",
+    "the Emperor",
+    "the Emperor of the Daleks",
+    "Dalek Emperor",
+    "Dalek Inquisitor General"
+    "Golden Emperor",
+    "Dalek Prime",
+  ],
+
+  "namedDaleks": [
+    "Dalek X"
+  ],
+
+  "dalekVarient": [
+    "Klade",
+    "Thalek"
+  ],
+
+  "skaroCities": [
+    "New Dalazar",
+    "Kaalann",
+    "Dalek City",
+    "the City",
+    "Kaled Dome",
+    "Thal Dome"
+  ],
+
+  "skaroContinents": [
+    "Davius",
+    "Darren",
+    "Dalazar"
+  ],
+
+  "dalography": [
+    "Polar Mountains",
+    "Radiation Range",
+    "Ocean of Ooze",
+    "Forbidden Islands",
+    "Island of Moving Mountains",
+    "Geyser Swamp",
+    "Lake Drmmakin",
+    "Lake of Mutations",
+    "Bottomless Sea",
+    "Sea of Rust",
+    "Serpent Sea",
+    "River of Whirling Waters"
+  ],
+
+  "skaroWildlife": [
+    "slyther",
+    "varga plant",
+    "terrorkon",
+    "skarosaurs",
+    "giant electric eel",
+    "magnedons"
+  ]
+}

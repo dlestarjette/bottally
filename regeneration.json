@@ -1,0 +1,71 @@
+{
+  "regenerationGerund": [
+    "sparkling",
+    "sparkles",
+    "gleaming",
+    "gleams",
+    "glinting",
+    "glints",
+    "glowing",
+    "glows",
+    "twinkling",
+    "twinkles",
+    "shimmering",
+    "shimmers",
+    "flickering",
+    "flickers",
+    "glittering",
+    "glitters",
+    "blazing",
+    "blazes",
+    "radiating",
+    "radiates",
+    "trilling",
+    "trills"
+  ],
+
+  "regenerationQuote": [
+    "Don't worry!",
+    "Wearing a bit thin...",
+    "While there's life...",
+    "It's the end...",
+    "The moment has been prepared for.",
+    "Is this death?",
+    "Our future is in safe hands!",
+    "All those lives...!",
+    "It's far from being all over!",
+    "Change—I feel it!",
+    "Yes! I will regenerate!",
+    "Fat or thin? Young or old? Man or woman?",
+    "Physician, heal thyself!",
+    "Fantastic!",
+    "Gone in a moment...",
+    "Gone in a moment, like breath on a mirror.",
+    "Alert! The Doctor is regenerating!",
+    "Doctor! You're young again.",
+    "Doctor! You're old again.",
+    "Always the Doctor!",
+    "The Doctor forever!",
+    "Hey!",
+    "Well, here we go again!",
+    "That's the trouble with regeneration...",
+    "Trans-regenerative telebiogenesis can be so random."
+  ],
+
+  "regenerationMalfunction": [
+    "Regeneration malfunction!",
+    "Regeneration disabled!",
+    "Artron energy depleted. Regeneration failing!"
+  ],
+
+  "colors": [
+    "red",
+    "orange",
+    "yellow",
+    "green",
+    "blue",
+    "purple",
+    "gold",
+    "black"
+  ]
+}
