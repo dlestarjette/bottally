@@ -1,0 +1,125 @@
+{
+  "event": [
+    "#scienceEvent#",
+    "#scienceEvent#",
+    "#scienceEvent#",
+    "#scienceEvent#",
+    "#scienceEvent#",
+    "#scienceEvent#",
+    "#historicalEvent#",
+    "#historicalEvent#",
+    "#historicalEvent#",
+    "#historicalEvent#",
+    "#historicalEvent#",
+    "#historicalEvent#",
+    "#alienEvent#",
+    "#alienEvent#",
+    "#alienEvent#",
+    "#alienEvent#",
+    "#alienEvent#",
+    "#alienEvent#",
+    "#alienEvent#",
+    "#militaryEvent#",
+    "#militaryEvent#",
+    "#militaryEvent#",
+    "#wonderEvent#",
+    "#wonderEvent#",
+    "#wonderEvent#",
+    "#wonderEvent#",
+    "#wonderEvent#",
+    "#wonderEvent#",
+    "#wonderEvent#",
+    "#dangerEvent#",
+    "#dangerEvent#",
+    "#dangerEvent#",
+    "#dangerEvent#",
+    "#spaceEvent#",
+    "#spaceEvent#",
+    "#spaceEvent#",
+    "#spaceEvent#",
+    "#spaceEvent#",
+    "#spaceEvent#",
+    "#dalekEvent#",
+    "#dalekEvent#",
+    "#dalekEvent#",
+    "#tardisEvent#",
+    "#tardisEvent#",
+    "#tardisEvent#",
+    "#tardisEvent#",
+    "#tardisLife#",
+    "#tardisLife#",
+    "#tardisLife#",
+    "#tardisLife#",
+    "#tardisLife#",
+    "#tardisLife#",
+    "#tardisLife#",
+    "#regeneration#"
+  ],
+
+  "scienceEvent": [
+    "#wonderEvent#",
+  ],
+
+  "historicalEvent": [
+
+  ],
+
+  "alienEvent": [
+    "#spaceEvent#",
+  ],
+
+  "#militaryEvent": [
+
+  ],
+
+  "wonderEvent": [
+    "#spaceEvent",
+    "#colors.capitalize# vortisaurs skim skim time in Vortex light, drinking #timeScales.s# like water.",
+
+  ],
+
+  "dangerEvent": [
+    "#militaryEvent#",
+    "#dalekEvent#",
+  ],
+
+  "spaceEvent": [
+    "The #tardisSyn# is becamled."
+  ],
+
+  "dalekEvent": [
+    "#dalekTypes.capitalize# forces destroy all living matter on planet #newPlanet#."
+
+  ],
+
+  "tardisLife": [
+    "#faultLocator",
+
+  ],
+
+  "tardisEvent": [
+    "#tardisArrives#",
+    "#tardisDeparts#"
+  ],
+
+  "tardisArrives": [
+    "\\#vworpvworp. #event#."
+  ],
+
+  "tardisDeparts": [
+    "#event#. \\#vworpvworp"
+  ],
+
+  "regeneration": [
+    "Arton energy #regenerationGerund#: #colors#, #colors#, #colors#. #regenerationQuote#",
+    "Artron energy #regenerationGerund#.",
+    "Arton energy #regenerationGerund#: #colors#, #colors#, #colors#.",
+    "#colors.capitalize#, #colors#, #colors# Artron",
+    "#regenerationQuote#",
+    "#regenerationMalfunction#"
+  ],
+
+  "matrixMemory": [
+    "#erasTemporal#",
+  ]
+}

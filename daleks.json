@@ -6,8 +6,9 @@
   "Exterminate!",
   "Maximum extermination!",
   "Total destruction!",
+  "Daleks conquer and destroy!",
   "This is the #dalekLeaders speaking. Exterminate all opposition!",
-  "All humanoid creatures are to be exterminated! #dalekTypes.s.capitalize# advance!",
+  "All #alienType# creatures are to be exterminated! #dalekTypes.s.capitalize# advance!",
   "All matter succumbs to the power of the Daleks!"
 ],
 
@@ -78,8 +79,8 @@
     "Kaalann",
     "Dalek City",
     "the City",
-    "Kaled Dome",
-    "Thal Dome"
+    "Old Kaled Dome",
+    "Old Thal Dome"
   ],
 
   "skaroContinents": [
@@ -89,18 +90,18 @@
   ],
 
   "dalography": [
-    "Polar Mountains",
-    "Radiation Range",
-    "Ocean of Ooze",
-    "Forbidden Islands",
-    "Island of Moving Mountains",
-    "Geyser Swamp",
+    "the Polar Mountains",
+    "the Radiation Range",
+    "the Ocean of Ooze",
+    "the Forbidden Islands",
+    "the Island of Moving Mountains",
+    "the Geyser Swamp",
     "Lake Drmmakin",
-    "Lake of Mutations",
-    "Bottomless Sea",
-    "Sea of Rust",
-    "Serpent Sea",
-    "River of Whirling Waters"
+    "the Lake of Mutations",
+    "the Bottomless Sea",
+    "the Sea of Rust",
+    "the Serpent Sea",
+    "the River of Whirling Waters"
   ],
 
   "skaroWildlife": [
@@ -110,5 +111,11 @@
     "skarosaurs",
     "giant electric eel",
     "magnedons"
+  ],
+
+  "dalekWorlds": [
+    "Skaro Prime",
+    "New Skaro",
+    "Skaro"
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "alienType": [
+    "humanoid",
+    "insectoid",
+    "marine",
+    "fishoid",
+    "avain",
+    "aquatic",
+    "arboreal",
+    "subterranean",
+  ],
+  
+}

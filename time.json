@@ -1,4 +1,20 @@
 {
+  "timeHour": [
+  	"morning",
+  	"afternoon",
+  	"evening",
+  	"night",
+  	"dawn",
+  	"dusk",
+  	"midnight"
+  ],
+
+  "timeMods": [
+  	"early",
+  	"mid",
+  	"late"
+  ],
+
   "timeScales": [
     "picosecond",
     "nanosecond",
@@ -22,8 +38,9 @@
   ],
 
   "erasTemporal": [
-    "Humanian Era",
-  	"Sensorian Era",
+    "#humanianEra#",
+  	"#sensorianEra#",
+    "skarosianEra#",
   	"Sumaran Era",
   	"Leptonic Era",
   	"Abbasid Era",
@@ -31,7 +48,28 @@
   	"Morestran Era",
   	"The Old Time",
   	"The Dark Times",
+    "Era of the End of the Univese",
   	"#segment#"
+  ],
+
+  "humanianEra": [
+    "Humanian Era. #newPlanet#. #yearDigits##yearDigits##yearDigits##yearDigits#. #event#.",
+
+    "Humanian Era. Earth. #geologicTime#. #event#."
+  ],
+
+  "sensorianEra": [
+    "Sensorian Era. #city#. #quarter#, #yearDigits##yearDigits##yearDigits##yearDigits#. #event#.",
+
+    "Sensorian Era. #galaxy#. #quarter#, #yearDigits##yearDigits##yearDigits##yearDigits#. #event#.",
+
+    "Sensorian Era. #newPlanet#. #quarter#, #yearDigits##yearDigits##yearDigits##yearDigits#. #event#."
+  ],
+
+  "skarosianEra": [
+    "Skarosian Era. Seriphia Galaxy, Skaro.#yearDigits##yearDigits##yearDigits##yearDigits#. #yearDigits Anno-rel #quarter#. #dalekEvent#.",
+
+    "Skarosian Era. #galaxy#. #yearDigits#yearDigits.yearDigits Anno-rel #quarter#. #dalekEvent#."
   ],
 
   "geologicTime": [
@@ -127,31 +165,28 @@
     "Orosirian Period",
     "Rhyacian Period",
     "Siderian Period",
-    "Cenozoic Era",
     "Cenozoic",
-    "Mesozoic Era",
     "Mesozoic",
-    "Paleozoic Era",
     "Paleozoic",
-    "Neoproterozoic Era",
-    "Mesoproterozoic Era",
-    "Paleoproterozoic Era",
-    "Neoarchean Era",
-    "Mesoarchean Era",
-    "Paleoarchean Era",
-    "Eoarchean Era",
-    "Neohadean Era",
-    "Nectarian Era",
-    "Paleohaden Era",
-    "Eohaden Era",
-    "Cryptic Era",
+    "Neoproterozoic",
+    "Mesoproterozoic",
+    "Paleoproterozoic",
+    "Neoarchean",
+    "Mesoarchean",
+    "Paleoarchean",
+    "Eoarchean",
+    "Neohadean",
+    "Nectarian",
+    "Paleohaden",
+    "Eohaden",
+    "Cryptic",
     "Phanerozoic Eon",
     "Proterozoic Eon",
     "Archean Eon",
     "Hadean Eon",
     "Postcambrian Supereon",
     "Precambrian Supereon",
-    "Precambrinan"
+    "Precambrian"
   ],
 
   "segment": [
@@ -666,5 +701,22 @@
     "Second",
     "Third",
     "Fourth"
+  ],
+
+  "yearDigits": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+  ],
+
+  "year": [
+    "#yearDigits##yearDigits##yearDigits##yearDigits#"
   ]
 }

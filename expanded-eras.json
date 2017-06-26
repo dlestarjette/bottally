@@ -4,12 +4,18 @@
   ],
 
   "sensorianEra": [
-    "Sensorian Era. #city#. #"
+    "Sensorian Era. #city#. #quarter#, #yearDigits##yearDigits##yearDigits##yearDigits#. #event#.",
+
+    "Sensorian Era. #galaxy#. #quarter#, #yearDigits##yearDigits##yearDigits##yearDigits#. #event#.",
+
+    "Sensorian Era. #newPlanet#. #quarter#, #yearDigits##yearDigits#. #event#."
   ],
 
   "skarosianEra": [
-    "Skarosian Era. Seriphia Galaxy, Skaro
-  ]
+    "Skarosian Era. Seriphia Galaxy, Skaro.#yearDigits##yearDigits##yearDigits##yearDigits#. #dalekEvent#. #yearDigits Rel #quarter. #dalekEvent#.",
+
+    "Skarosian Era. #galaxy#. "
+  ],
 }
 
 

@@ -57,8 +57,27 @@
     "gravity tractor beam",
     "HADS",
     "Hostile Action Displacement System",
-    "Hostile Action Dispersal System"
-
+    "Hostile Action Dispersal System",
+    "mechanical panel",
+    "engine release",
+    "handbreak",
+    "lockdown mechanism",
+    "helm panel",
+    "eyepiece scanner",
+    "time rotor handbreak",
+    "space-time throttle",
+    "navigation panel",
+    "directional pointer",
+    "atom accelerator",
+    "spatial location input keyboard",
+    "diagnostic panel",
+    "communiucations panel",
+    "telephone",
+    "fabrication panel",
+    "harmonic generator",
+    "fabrication dispenser",
+    "wibbly lever",
+    "time path indicator"
   ],
 
   "tardisRooms": [
@@ -124,5 +143,35 @@
     "TARDIS",
     "\\#vworpvworp",
     "dissapearing here, reappeaing there",
+    "doom"
+  ],
+
+  "faultLocator": [
+    "Fault Locator alert! There is a fault in the #tardisSystem#.",
+    "Fault Locator reports the #tardisSystem# is #brokenSys#.",
+    "Fault Locator alert! All systems functioning normally.",
+    "Alert! Fault Locator reports the #tardisSystem# is #brokenSys#.",
+    "Ding! Ding! Ding! There is a fault in the #tardisSystem#."
+  ],
+
+  "brokenSys:": [
+    "broken",
+    "busted",
+    "kaput",
+    "inoperative",
+    "faulty",
+    "damaged",
+    "in need of service",
+    "cracked",
+    "defective",
+    "fractured",
+    "mangled",
+    "ruptured",
+    "severed"
+  ],
+
+  "tardisSyn": [
+    "TARDIS",
+    "Ship",
   ]
 }

@@ -1,28 +1,5 @@
 {
   "origin": [
-    "#scienceEvent",
-    "historicalEvent",
-    "#alienEvent#",
-    "#wonderEvent#",
-    "#dangerEvent#",
-    "#spaceEvent#",
-    "#tardisLife#",
-    "#tardisMeans#",
-    "#tardisArrives#",
-    "#tardisDeparts#"
-    "#regeneration#",
-  ],
-
-  "regeneration": [
-    "Arton energy #regenerationGerund#: #colors#, #colors#, #colors#. #regenerationQuote#",
-    "Artron energy #regenerationGerund#.",
-    "Arton energy #regenerationGerund#: #colors#, #colors#, #colors#.",
-    "#colors.capitalize#, #colors#, #colors# Artron",
-    "#regenerationQuote#",
-    "#regenerationMalfunction#"
-  ],
-
-  "scienceEvent": [
-
-  ],
+    "#event# \\#DoctorWho",
+  ]
 }
