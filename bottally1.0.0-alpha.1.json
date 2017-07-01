@@ -15,6 +15,20 @@
     "The Doctor is #emotion#."
   ],
 
+  "doctorObjects": [
+    "walking stick",
+    "recorder",
+    "broken dematerialsation circuit",
+    "bag of jelly babies",
+    "cricket ball",
+    "cat pin",
+    "question mark umbrella",
+    "velvet frock coat",
+    "Gallifreyan staser",
+    "leather peacoat",
+    "Chuck "
+  ],
+
   // Regeneration //
 
   "regenerationAdj": [
